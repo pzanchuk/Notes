@@ -43,8 +43,6 @@ class Note extends Component {
         )
     }
 
-
-
     renderNote() { 
         console.log(this.props)
         return ( 
