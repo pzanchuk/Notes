@@ -22,7 +22,7 @@ class Note extends Component {
       
 
     delete() {
-        alert("deleted")
+        this.props.onDelete(this.props.index)
     }
 
     save(event) {

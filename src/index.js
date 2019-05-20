@@ -5,7 +5,7 @@ import Board from './Board';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <Board />,
+  <Board count={50}/>,
   document.getElementById('root')
 );
 
