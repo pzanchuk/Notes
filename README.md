@@ -5,7 +5,7 @@
 #### By _**Pavel Zanchuk**_
 
 ## Description
-_Notes. Have not decided what I am going to do with this yet._
+_Notes. App that crteates yellow(windows like) mini notes in browser._
 
 ## Specs
 * _Users are able to modify notes._
